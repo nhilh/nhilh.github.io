@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-# title: "Nhi's Portfolio"
+title: "Nhi's Portfolio"
 
 # Your name to show in the footer
 author: nhilh
@@ -21,7 +21,7 @@ author: nhilh
 
 navbar-links:
   About Me: "aboutme"
-  Portfolio: "https://nhilh.github.io"
+  # Portfolio: "https://nhilh.github.io"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://nhilh.github.io"
